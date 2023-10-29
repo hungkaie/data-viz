@@ -21,7 +21,7 @@ I recommend using [virtualenv](https://virtualenv.pypa.io/en/latest/).
   - For windows user:
   
   ```bash=
-  $ env/Scripts/activate
+  $ .\env\Scripts\activate
   ```
 
 3. Install packages in `requirements.txt`.
